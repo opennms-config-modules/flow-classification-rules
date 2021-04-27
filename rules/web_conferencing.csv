@@ -1,0 +1,7 @@
+name;protocol;srcAddress;srcPort;dstAddress;dstPort;exporterFilter;omnidirectional
+MSTeams;UDP;;;13.107.64.0/18, 52.112.0.0/14;3478,3479,3480,3481;;false
+ZoomMeet;UDP;;;;8801-8810;;false
+ZoomMeet;TCP;;;;8801-8802;;false
+GoogleMeet;UDP;;;;19302-19309;;false
+WebexMeet;UDP;;;;9000;;false
+WebexMeet;TCP,UDP;;;;5004;;false
