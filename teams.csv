@@ -1,0 +1,2 @@
+name;protocol;srcAddress;srcPort;dstAddress;dstPort;exporterFilter;omnidirectional
+MSTeams;UDP;;;13.107.64.0/18, 52.112.0.0/14;3478,3479,3480,3481;;false
